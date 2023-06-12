@@ -1,5 +1,3 @@
-# huggingface-demo
-
 ---
 title: Demo
 emoji: 🌖
